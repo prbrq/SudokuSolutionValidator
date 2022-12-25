@@ -1,0 +1,15 @@
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\bin\Debug\net6.0\SudokuSolutionValidator.exe
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\bin\Debug\net6.0\SudokuSolutionValidator.deps.json
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\bin\Debug\net6.0\SudokuSolutionValidator.runtimeconfig.json
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\bin\Debug\net6.0\SudokuSolutionValidator.dll
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\bin\Debug\net6.0\SudokuSolutionValidator.pdb
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\obj\Debug\net6.0\SudokuSolutionValidator.csproj.AssemblyReference.cache
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\obj\Debug\net6.0\SudokuSolutionValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\obj\Debug\net6.0\SudokuSolutionValidator.AssemblyInfoInputs.cache
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\obj\Debug\net6.0\SudokuSolutionValidator.AssemblyInfo.cs
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\obj\Debug\net6.0\SudokuSolutionValidator.csproj.CoreCompileInputs.cache
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\obj\Debug\net6.0\SudokuSolutionValidator.dll
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\obj\Debug\net6.0\refint\SudokuSolutionValidator.dll
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\obj\Debug\net6.0\SudokuSolutionValidator.pdb
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\obj\Debug\net6.0\SudokuSolutionValidator.genruntimeconfig.cache
+C:\Users\prbrq\source\repos\SudokuSolutionValidator\SudokuSolutionValidator\obj\Debug\net6.0\ref\SudokuSolutionValidator.dll
